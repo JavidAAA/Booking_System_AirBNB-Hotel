@@ -1,10 +1,8 @@
 {
   // EDITOR CONFIGURATION
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": { "source.fixAll": "explicit" },
   "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit"
-  },
   "files.associations": {
     "html": "html",
     "*.css": "tailwindcss"
@@ -14,10 +12,9 @@
   "eslint.validate": ["javascript", "javascriptreact"],
 
   // LANGUAGE CONFIGURATION
-  "[javascript]": {
-    "editor.formatOnSave": false
-  },
-  "[javascriptreact]": {
-    "editor.formatOnSave": false
-  }
+  "[javascript]": { "editor.formatOnSave": false },
+  "[javascriptreact]": { "editor.formatOnSave": false },
+
+  // SPELL CHECKER CONFIGURATION
+  "cSpell.words": ["srmukul"]
 }
