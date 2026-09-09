@@ -1,10 +1,5 @@
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
 
-# 🏖️ Beach Resort | Hotel Room Booking System
+# Beach Resort | Hotel Room Booking System
 
 A comprehensive full-stack hotel room booking and management system built with modern web technologies. This application provides a complete solution for hotel room reservations, user management, and administrative operations.
 
@@ -279,7 +274,7 @@ PUT  /api/v1/edit-room-review/:review_id    - Edit review
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System.git
+git clone https://github.com/CodeyFrank/Booking_System_AirBNB-Hotel.git
 cd Hotel-Room-Booking-System
 ```
 
